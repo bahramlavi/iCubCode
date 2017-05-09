@@ -1,5 +1,6 @@
-This the reproduced version of the work which provides the implimention for this paper: 
+This code is the reproduced version of the work which discussed on the below paper:
 Pasquale, Giulia, et al. "Teaching iCub to recognize objects using deep Convolutional Neural Networks." MLIS@ ICML. 2015.
+The code has been rerproduced in python. 
 
 The goal of this paper relies on to answer: how many objects can the iCub can be recognized for each day. 
 
