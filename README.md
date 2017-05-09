@@ -1,4 +1,4 @@
-The released code provided the implimention code for this paper: 
+This the reproduced version of the work which provides the implimention for this paper: 
 Pasquale, Giulia, et al. "Teaching iCub to recognize objects using deep Convolutional Neural Networks." MLIS@ ICML. 2015.
 
 The goal of this paper relies on to answer: how many objects can the iCub can be recognized for each day. 
