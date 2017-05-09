@@ -1,12 +1,11 @@
-The released code provided the implimention code for the below paper: 
+The released code provided the implimention code for this paper: 
 Pasquale, Giulia, et al. "Teaching iCub to recognize objects using deep Convolutional Neural Networks." MLIS@ ICML. 2015.
 
 The goal of this paper relies on to answer: how many objects can the iCub can be recognized for each day. 
 
-The code is running on CPU, not GPU. If one intersted to use GPU, it can be easily done by modifiying and re-compiling the configuration file on caffe library.
+The code is running on CPU, not GPU. If one intersted to run on GPU, it can be easily done by modifiying and re-compiling the configuration file on caffe library.
 
-Note that  at the original paper, they  relied on the GURLS maching learning library to perfom RLS, but this code has been done by using SVM library, instead. The achieved results by SVM library is not that very different. 
+Note that at the original paper, they  relied on to use the GURLS maching learning library to perfom RLS, but this code has been evaluated by using SVM library, instead. The achieved results by SVM library is not that very different. 
 
-
-If you found any bugs and have any question about the code, please contact me without any hesitate by bahram_lavi@yahoo.com
+If you found any bugs and have any questions about the code, please contact me without any hesitate in bahram_lavi@yahoo.com
 
